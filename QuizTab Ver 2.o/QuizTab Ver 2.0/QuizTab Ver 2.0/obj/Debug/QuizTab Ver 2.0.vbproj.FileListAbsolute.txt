@@ -1,0 +1,16 @@
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\bin\Debug\QuizTab Ver 2.0.exe
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\bin\Debug\QuizTab Ver 2.0.pdb
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\bin\Debug\QuizTab Ver 2.0.xml
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab_Ver_2._0.Addq.resources
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab_Ver_2._0.Main.resources
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab_Ver_2._0.Resources.resources
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab Ver 2.0.vbproj.GenerateResource.Cache
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab Ver 2.0.exe
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab Ver 2.0.xml
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab Ver 2.0.pdb
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab_Ver_2._0.Front.resources
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab_Ver_2._0.login.resources
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab_Ver_2._0.user_main.resources
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab_Ver_2._0.qdetail.resources
+C:\Users\Tabiano Ronnie\OneDrive\Desktop\QuizTab Ver 2.o\QuizTab Ver 2.0\QuizTab Ver 2.0\obj\Debug\QuizTab_Ver_2._0.Managequestion.resources
